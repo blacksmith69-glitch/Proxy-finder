@@ -31,25 +31,10 @@ python main.py
 ```
 
 
-✅ This will **fetch fresh proxies** and save them in 
-`proxies.txt`.  
+✅ This will **fetch fresh and working proxies** and save them in 
+`working_proxies.txt`.  
 
 ---
-
-### **4️⃣ once it is done open new session in termux and Run the Proxy Checker (Check Working Proxies)**
-```
-python Check.py
-```
-
-✅ This will **test proxies** and save only working ones in `working_proxies.txt`.  
-
----
-
-### **📌 Where to Find Proxies?**
-
-proxies.txt           →  All fetched proxies
-working_proxies.txt   →  Only working proxies
-
 
 
 ### **🔥 Run this to check file**
