@@ -21,6 +21,11 @@ git clone https://github.com/blacksmith69-glitch/Proxy-finder.git
 ---
 
 ### **3️⃣ Run the Proxy Scraper (Fetch Fresh Proxies)**
+
+```
+cd Proxy-finder
+```
+
 ```
 python main.py
 ```
@@ -33,7 +38,7 @@ python main.py
 
 ### **4️⃣ once it is done open new session in termux and Run the Proxy Checker (Check Working Proxies)**
 ```
-python check.py
+python Check.py
 ```
 
 ✅ This will **test proxies** and save only working ones in `working_proxies.txt`.  
