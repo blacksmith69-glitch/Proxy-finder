@@ -31,7 +31,7 @@ python main.py
 
 ---
 
-### **4️⃣ once it is dome open new session in termux and Run the Proxy Checker (Check Working Proxies)**
+### **4️⃣ once it is done open new session in termux and Run the Proxy Checker (Check Working Proxies)**
 ```
 python check.py
 ```
