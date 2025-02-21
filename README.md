@@ -15,9 +15,9 @@ pkg update -y && pkg upgrade -y pkg install python -y pkg install git -y pkg ins
 ---
 
 ### **2️⃣ Clone the Repository & Navigate to Folder**
-
-git clone <your-repo-link> cd <your-repo-name>
-
+```
+git clone https://github.com/blacksmith69-glitch/Proxy-finder.git
+```
 ---
 
 ### **3️⃣ Run the Proxy Scraper (Fetch Fresh Proxies)**
