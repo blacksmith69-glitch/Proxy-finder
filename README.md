@@ -45,6 +45,14 @@ python check.py
 proxies.txt           →  All fetched proxies
 working_proxies.txt   →  Only working proxies
 
+
+
+### **🔥 Run this to check file**
+```
+cat working_proxies.txt
+```
+
+
 🔁 **If no proxies work, rerun the script later.**  
 
 🚀 **Enjoy Proxy Scraping & Checking in Termux!**
